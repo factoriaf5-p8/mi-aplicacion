@@ -1,0 +1,11 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Product-1",
+            "image":"https:\/\/randomfox.ca\/images\/109.jpg",
+            "price":100
+        }
+    ],
+    "profile":{  }
+}
